@@ -1,0 +1,134 @@
+        <style type="text/css">
+	
+			* {
+			  /*font-size: 8pt;*/
+			  }
+
+			  table, tr, td, th, p, h* {
+			  font-size: 8pt;
+			  font-family: Arial;
+			  }
+			
+			body {
+				position:relative;
+				left: 0;
+				font-size: 8pt;
+		   }
+
+			div.mainbody{
+				 position:absolute;
+				 width: 8.27in;    
+			}
+			
+			.Nenhuma {
+				font-family: "Arial", Helvetica, sans-serif;
+				font-size: 10.5px;
+				text-align: center;
+			}
+				
+			.header_2 {
+				/*background-color: lightgrey;*/
+				border-top: 1px solid;
+				border-bottom: 1px solid;
+				font-family: "Arial", Helvetica, sans-serif;
+				font-weight: bold;
+				font-size: 10.5px;
+				padding-top: 2px;
+				padding-bottom: 2px;
+				text-align: center;
+				text-indent: 30px;
+			}
+			
+			.GenericInstructionTable {
+				float: left;
+				display: inline-block;
+				border-collapse: collapse;
+			}
+			
+			.GenericInstructionTable td, .GenericInstructionTable th{
+				border-style: solid;
+				border-width: 2px;
+				font-size: 8pt;
+				font-family: "Arial", Helvetica, sans-serif;
+				text-align: center;
+			}
+			
+			.GenericInstructionTable th{
+				/*background-color: lightgrey;*/
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+			
+			  
+			/* Section III */                
+			.section3 {
+				font-family: arial;
+				font-size: 8pt;
+			}
+
+			.section3 h1{
+				text-align: center;
+				/*background-color: black;*/
+				color: black;
+				font-size: 12pt;
+			}
+			
+			.section3 h3{
+				font-size: 8pt;
+			}
+
+			/* affected charts table */
+			table#affectedCharts{
+				width:6in;
+				border-style: solid;
+				border-collapse: collapse;
+				border-width: 1px;
+				margin:auto;
+			}
+			table #acChartNumberWidth{
+				width:20%;
+			}
+
+			#affectedCharts tr, 
+			#affectedCharts td, 
+			#affectedCharts th{
+				border-style: solid;
+				border-collapse: collapse;
+				border-color: black;
+				border-width: 1px;
+			}
+
+			#affectedCharts td{
+				text-align: center;
+			}
+			
+			#affectedCharts {
+				font-family: arial;
+				font-size: 8pt;
+			}
+			
+			#affectedCharts th{
+				/*background-color: lightgrey;*/
+				border-style: solid;
+				border-collapse: collapse;
+			  }
+
+			  /* chart instructions */
+			  table.chartinstruct {
+			  width: 100%;
+			  }
+			  .chartinstruct td{
+			  vertical-align: top;
+			  }
+
+			  .chartinstruct {
+			font-family: arial;
+			font-size: 8pt;
+			}
+
+			.chartinstruct table {
+			font-family: arial;
+			font-size: 8pt;
+			}
+        
+        </style>

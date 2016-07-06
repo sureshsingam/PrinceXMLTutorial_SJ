@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ntm.xsl"?>
+<NTC_PUBLICATION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="WorldTour_NtM_2.xsd">
+  <TITLE>Sample Standard NtM World Tour</TITLE>
+  <PUBLISHED_FILENAME>D:\Publication_Module\StandardTemplate\CSS_print_test\WorldTour_NtM_2.xml</PUBLISHED_FILENAME>
+  <XSLT_FILENAME>D:\Publication_Module\StandardTemplate\CSS_print_test\ntm.xsl</XSLT_FILENAME>
+  <SECTION_LIST>
+    <SECTION_LIST_ITEM>
+      <NTC_SECTION_NOTICE_GROUP>
+        <NAME>NAUTICAL CHART NOTICES</NAME>
+        <SECTION_NUMBER>III</SECTION_NUMBER>
+        <NAME_NATIONAL>CARTAS NÁUTICAS AVISOS</NAME_NATIONAL>
+        <SECTION_LIST>
+          <SECTION_LIST_ITEM>
+            <NTC_SECTION_NOTICE_GROUP>
+              <NAME>NORTH COAST</NAME>
+              <NAME_NATIONAL>COSTA NORTE</NAME_NATIONAL>
+              <SECTION_LIST>
+                <SECTION_LIST_ITEM>
+                  <NTC_ST_SECTION_CHART>
+                    <NAME>Temporary (T) and Preliminary (P) Notices in Force</NAME>
+                    <NAME_NATIONAL>Avisos Temporários e Preliminares em vigor</NAME_NATIONAL>
+                    <SECTION_CONTENT_LIST>
+                      <SECTION_CONTENT_LIST_ITEM>
+                        <NTC_ST_TORP>
+                          <PUBLISH_NUMBER>NTM 011/2016</PUBLISH_NUMBER>
+                          <REGION>United States of America</REGION>
+                          <SUB_REGION>New Hampshire</SUB_REGION>
+                          <VICINITY>Portsmouth Harbour</VICINITY>
+                          <TERM>Temporary</TERM>
+                          <INSTRUCTION_LIST>
+                            <INSTRUCTION_LIST_ITEM>
+                              <NTC_ST_CHARTINSTRUCT>
+                                <ACTION>Insert</ACTION>
+                                <ST_CHART_LIST>
+                                  <ST_CHART>
+                                    <CHART_TITLE>Portsmouth Test Chart</CHART_TITLE>
+                                    <CHART_NUM>1237</CHART_NUM>
+                                  </ST_CHART>
+                                </ST_CHART_LIST>
+                                <ENHANCED_ATT_DESC_POSITION_LIST>
+                                  <ATT_DESC_POSTN_LIST_COMPLEX>
+                                    <DESCRIPTION_POSTN_LIST>
+                                      <DESC_POS_COMPLEX>
+                                        <DESCRIPTION_ENG>
+                                          <b>0<sub>9</sub></b>
+                                        </DESCRIPTION_ENG>
+                                        <DESCRIPTION_NAT>
+                                          <b>0<sub>9</sub></b>
+                                        </DESCRIPTION_NAT>
+                                        <ST_POSITION_LIST>
+                                          <ST_POSITION>
+                                            <LATITUDE>43-4-34.55 N</LATITUDE>
+                                            <LONGITUDE>070-43-33.79 W</LONGITUDE>
+                                          </ST_POSITION>
+                                        </ST_POSITION_LIST>
+                                      </DESC_POS_COMPLEX>
+                                    </DESCRIPTION_POSTN_LIST>
+                                  </ATT_DESC_POSTN_LIST_COMPLEX>
+                                </ENHANCED_ATT_DESC_POSITION_LIST>
+                              </NTC_ST_CHARTINSTRUCT>
+                            </INSTRUCTION_LIST_ITEM>
+                          </INSTRUCTION_LIST>
+                        </NTC_ST_TORP>
+                      </SECTION_CONTENT_LIST_ITEM>
+                      <SECTION_CONTENT_LIST_ITEM>
+                        <NTC_ST_TORP>
+                          <PUBLISH_NUMBER>NTM 010/2016</PUBLISH_NUMBER>
+                          <REGION>Canada</REGION>
+                          <SUB_REGION>Nova Scotia</SUB_REGION>
+                          <VICINITY>Yarmouth</VICINITY>
+                          <TERM>Temporary</TERM>
+                          <DESCRIPTION_ENG>Buoys for collecting meteorological data</DESCRIPTION_ENG>
+                          <DESCRIPTION_NAT>
+                            <SPAN lang="FR" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,&quot;sans-serif&quot;; LINE-HEIGHT: 115%; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: FR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Bouées de collecte de données météorologiques</SPAN>
+                          </DESCRIPTION_NAT>
+                          <SOURCE>National Hydrographic Agency</SOURCE>
+                          <REFERENCE>Pg. 2, National Charting Standard</REFERENCE>
+                          <REFERENCE_NAT>Pg 2. Norme Nationale Charting</REFERENCE_NAT>
+                          <INSTRUCTION_LIST>
+                            <INSTRUCTION_LIST_ITEM>
+                              <NTC_ST_CHARTINSTRUCT>
+                                <ACTION>Insert</ACTION>
+                                <ST_CHART_LIST>
+                                  <ST_CHART>
+                                    <CHART_NUM>999</CHART_NUM>
+                                    <HORIZ_DATUM>WGS84</HORIZ_DATUM>
+                                  </ST_CHART>
+                                </ST_CHART_LIST>
+                                <ENHANCED_ATT_DESC_POSITION_LIST>
+                                  <ATT_DESC_POSTN_LIST_COMPLEX>
+                                    <DESCRIPTION_POSTN_LIST>
+                                      <DESC_POS_COMPLEX>
+                                        <DESCRIPTION_ENG>
+                                          <P><FONT size="6" face="CARIS Nautical 1">‡</FONT> Light with <EM>Fl A (5) 20s<FONT face="CARIS Nautical 1"> </FONT></EM></P>
+                                          <P>
+                                            <FONT size="5" face="CARIS Nautical 3">"--25</FONT>
+                                          </P>
+                                          <P/>
+                                        </DESCRIPTION_ENG>
+                                        <DESCRIPTION_NAT>Luz com <EM>Lp A (5) 20</EM></DESCRIPTION_NAT>
+                                      </DESC_POS_COMPLEX>
+                                    </DESCRIPTION_POSTN_LIST>
+                                  </ATT_DESC_POSTN_LIST_COMPLEX>
+                                </ENHANCED_ATT_DESC_POSITION_LIST>
+                              </NTC_ST_CHARTINSTRUCT>
+                            </INSTRUCTION_LIST_ITEM>
+                          </INSTRUCTION_LIST>
+                        </NTC_ST_TORP>
+                      </SECTION_CONTENT_LIST_ITEM>
+                    </SECTION_CONTENT_LIST>
+                  </NTC_ST_SECTION_CHART>
+                </SECTION_LIST_ITEM>
+              </SECTION_LIST>
+            </NTC_SECTION_NOTICE_GROUP>
+          </SECTION_LIST_ITEM>
+        </SECTION_LIST>
+      </NTC_SECTION_NOTICE_GROUP>
+    </SECTION_LIST_ITEM>
+  </SECTION_LIST>
+</NTC_PUBLICATION>
