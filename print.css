@@ -1,4 +1,5 @@
-        table, tr, td, th, p, h* {
+        /*This is a Print CSS file for use in PrinceXML */
+		table, tr, td, th, p, h* {
           font-size: 8pt;
           font-family: Arial;
           }
